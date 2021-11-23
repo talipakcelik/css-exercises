@@ -5,3 +5,6 @@
 3: https://talipakcelik.github.io/css-exercises/foundations/03-grouping-selectors/
 
 4: https://talipakcelik.github.io/css-exercises/foundations/04-chaining-selectors/
+
+5: https://talipakcelik.github.io/css-exercises/foundations/05-descendant-combinator/ 
+
