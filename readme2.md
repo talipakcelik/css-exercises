@@ -8,3 +8,4 @@
 
 5: https://talipakcelik.github.io/css-exercises/foundations/05-descendant-combinator/ 
 
+6: https://talipakcelik.github.io/css-exercises/foundations/06-cascade-fix/
