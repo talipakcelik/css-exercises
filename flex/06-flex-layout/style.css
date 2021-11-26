@@ -5,6 +5,9 @@ body {
   margin: 0;
   overflow: hidden;
   font-family: Roboto, sans-serif;
+  /* sonradan eklenenler */
+  display: flex;
+  flex-direction: column;
 }
 
 img {
@@ -16,6 +19,8 @@ button {
   border: none;
   border-radius: 8px;
   background: #eee;
+  /* sonradan eklenenler */
+  padding: 8px;
 }
 
 input {
@@ -25,3 +30,84 @@ input {
   width: 400px;
   margin-bottom: 16px;
 }
+
+
+ul {
+  /* sonradan eklenenler */
+  list-style-type: none;
+}
+
+.header {
+  /* sonradan eklenenler */
+  display: flex;
+  justify-content: space-between;
+  
+  
+}
+
+
+.ust-left-links {
+  /* sonradan eklenenler */
+  display: flex;
+  justify-content: flex-start;
+  padding: 16px;
+  gap: 8px;
+  margin-top: 0px;
+  color: gray;
+  text-decoration: none;
+
+} 
+
+.ust-right-links {
+  /* sonradan eklenenler */
+  display: flex;
+  justify-content: flex-end;
+  padding: 16px;
+  gap: 8px;
+  margin-top: 0px;
+  
+}
+
+
+.footer {
+  /* sonradan eklenenler */
+  display: flex;
+  flex-direction: ;
+  justify-content: space-between; 
+  background-color: #eeeeee;
+  
+}
+
+.alt-left-links {
+    /* sonradan eklenenler */
+    display: flex;
+    justify-content: flex-start;
+    padding: 8px;
+    margin-bottom: 0px;
+    gap: 8px;
+}
+
+.alt-right-links {
+    /* sonradan eklenenler */
+    display: flex;
+    justify-content: flex-start;
+    padding: 8px;
+    gap: 8px;
+}
+
+.content {
+  /* sonradan eklenenler */
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  align-items: center;
+}
+
+
+a {
+  /* sonradan eklenenler */
+  text-decoration:none ;
+  color: gray;
+}
+
+
