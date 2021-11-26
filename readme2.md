@@ -9,3 +9,8 @@
 5: https://talipakcelik.github.io/css-exercises/foundations/05-descendant-combinator/ 
 
 6: https://talipakcelik.github.io/css-exercises/foundations/06-cascade-fix/
+
+
+---
+
+26.11.2021 13:12'den itibaren op-css-exercises repository'sine geçiş yaptım.
